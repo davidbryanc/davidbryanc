@@ -15,6 +15,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <a href="https://github.com/davidbryanc">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidbryanc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbryanc&layout=compact"/>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidbryanc&layout=compact)
 </a>
 </p>
