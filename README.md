@@ -21,7 +21,7 @@ I have a passion for learning and developing new skills in the field of IT. I ha
 | Productivity | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)|
 
 ## ⭐ GitHub Stats
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidbryanc&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="David's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidbryanc&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="David's Most Used Language">
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidbryanc&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="David's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidbryanc&langs_count=8&layout=compact&hide_border=true&theme=radical&cache_seconds=1800" alt="David's Most Used Language">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=davidbryanc&hide_border=true&theme=radical">
